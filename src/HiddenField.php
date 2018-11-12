@@ -14,7 +14,7 @@ class HiddenField extends Field
     public $component = 'hidden-field';
 
     /**
-     * Fill the field value with the provided value
+     * Fill the field value with the provided value.
      *
      * @param  string $value
      * @return $this
@@ -25,7 +25,7 @@ class HiddenField extends Field
     }
 
     /**
-     * Fill the field value with the current user id
+     * Fill the field value with the current user id.
      *
      * @return $this
      */
