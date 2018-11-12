@@ -1,4 +1,9 @@
 # Laravel Nova Hidden Field
+[![GitHub license](https://img.shields.io/github/license/MohmmedAshraf/nova-hidden-field.svg)](https://github.com/MohmmedAshraf/nova-hidden-field/blob/master/LICENSE.md)
+![StyleCI](https://github.styleci.io/repos/157270009/shield?style=flat)
+[![GitHub issues](https://img.shields.io/github/issues/MohmmedAshraf/nova-hidden-field.svg)](https://github.com/MohmmedAshraf/nova-hidden-field/issues)
+![GitHub Releases](https://img.shields.io/github/downloads/MohmmedAshraf/nova-hidden-field/total.svg)
+
 
 ## Description
 This field give the ability to add a hidden fields to your resources.
