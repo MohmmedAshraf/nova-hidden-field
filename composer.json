@@ -1,0 +1,39 @@
+{
+    "name": "outhebox/nova-hidden-field",
+    "description": "A Laravel Nova Hidden field.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "field",
+        "nova default value",
+        "nova hidden field"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Ashraf",
+            "email": "cupo.ashraf@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Outhebox\\NovaHiddenField\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Outhebox\\NovaHiddenField\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
