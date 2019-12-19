@@ -62,3 +62,6 @@ BelongsTo::make('User')
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Donate
+💜 If you like this package, you can show your appreciation by [donating any amount via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT2WAHNYC4Y7W&source=url) to support ongoing development.
