@@ -19,7 +19,7 @@ class HiddenField extends Field
      * @param  string $value
      * @return $this
      */
-    public function default(string $value = null)
+    public function defaultValue(string $value = null)
     {
         return $this->withMeta(['value' => $value]);
     }
