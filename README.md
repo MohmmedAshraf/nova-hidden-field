@@ -30,7 +30,7 @@ Also you can override the default value:
 use Outhebox\NovaHiddenField\HiddenField;
 
 HiddenField::make('User', 'column_name')
-    ->default($this->get_client_id()),
+    ->defaultValue($this->get_client_id()),
 
 /**
  * Function will return your value
